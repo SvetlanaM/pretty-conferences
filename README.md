@@ -16,4 +16,3 @@ This is a list of well designed conferences websites. Feel free to PR to add som
 - [XOXO 2015](http://2015.xoxofest.com/)
 - [Úll 2014](http://2014.ull.ie/)
 - [Úll 2015](http://2015.ull.ie/)
-- 
